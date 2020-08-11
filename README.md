@@ -7,4 +7,5 @@ This is how it will look like
 ![](preview.png)
 
 This is the Subscribers details on mailchimp
+
 ![](preview2.png)
