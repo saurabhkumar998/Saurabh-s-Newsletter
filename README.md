@@ -8,4 +8,4 @@ This is how it will look like
 
 This is the Subscribers details on mailchimp
 
-![](preview2.png)
+![](preview3.png)
