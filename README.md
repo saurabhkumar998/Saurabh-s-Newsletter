@@ -9,3 +9,5 @@ This is how it will look like
 This is the Subscribers details on mailchimp
 
 ![](preview3.png)
+
+This code is for reference , Please add your own mailchimp api id.
